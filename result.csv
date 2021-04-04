@@ -1,0 +1,158 @@
+2 0
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/0.g,Enron.g,697122720,11283.5
+0 1
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/1.g,Enron.g,697122720,11284.4
+0 1
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/2.g,Enron.g,697122720,7102.85
+0 1
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/3.g,Enron.g,1216596504,15438.2
+0 3
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/4.g,Enron.g,697122720,6963.74
+0 1
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/5.g,Enron.g,1216596504,15580.3
+0 1
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/6.g,Enron.g,697122720,7011.38
+0 0
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/7.g,Enron.g,697122720,11334.5
+2 0
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/8.g,Enron.g,697122720,7067.34
+0 2
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/9.g,Enron.g,697122720,11604.2
+0 0
+16514
+/home/lizhi/sm_dataset/query/ours_format/5nodes/10.g,Enron.g,697122720,7083.36
+0 3
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/0.g,Enron.g,3778510064,121896
+0 3
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/1.g,Enron.g,3227076160,134684
+0 2
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/2.g,Enron.g,3227076160,172967
+2 0
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/3.g,Enron.g,3778510064,84468.2
+1 2
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/4.g,Enron.g,3778510064,126447
+0 3
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/5.g,Enron.g,3778510064,84875.9
+0 1
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/6.g,Enron.g,3778510064,126843
+0 0
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/7.g,Enron.g,3227076160,102903
+0 0
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/8.g,Enron.g,3778510064,129027
+2 1
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/9.g,Enron.g,3778510064,81084.4
+1 2
+13148
+/home/lizhi/sm_dataset/query/ours_format/6nodes/10.g,Enron.g,2737108196,221621
+0 3
+10936
+an illegal memory access was encountered
+0 2
+10936
+an illegal memory access was encountered
+0 3
+10936
+an illegal memory access was encountered
+3 2
+13148
+an illegal memory access was encountered
+0 2
+10936
+an illegal memory access was encountered
+1 2
+10936
+an illegal memory access was encountered
+2 1
+10936
+an illegal memory access was encountered
+0 1
+10936
+an illegal memory access was encountered
+1 2
+10936
+an illegal memory access was encountered
+1 4
+10936
+an illegal memory access was encountered
+0 0
+10936
+an illegal memory access was encountered
+2 0
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/0.g,gowalla.g,1748505000,83440.6
+0 1
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/1.g,gowalla.g,1748505000,108096
+0 1
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/2.g,gowalla.g,1748505000,104313
+0 1
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/3.g,gowalla.g,3372336408,104036
+0 3
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/4.g,gowalla.g,1748505000,74355.5
+0 1
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/5.g,gowalla.g,3372336408,108385
+0 1
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/6.g,gowalla.g,1748505000,99202.2
+0 0
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/7.g,gowalla.g,1748505000,75162.8
+2 0
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/8.g,gowalla.g,1748505000,100956
+0 2
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/9.g,gowalla.g,1748505000,95627.2
+0 0
+96068
+/home/lizhi/sm_dataset/query/ours_format/5nodes/10.g,gowalla.g,1748505000,69194.2
+0 3
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/0.g,gowalla.g,3648463616,945853
+0 3
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/1.g,gowalla.g,2168054912,1.70847e+06
+0 2
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/2.g,gowalla.g,2168054912,1.16854e+06
+2 0
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/3.g,gowalla.g,3648463616,944161
+1 2
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/4.g,gowalla.g,3648463616,1.2045e+06
+0 3
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/5.g,gowalla.g,3648463616,1.20558e+06
+0 1
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/6.g,gowalla.g,3648463616,877939
+0 0
+81143
+/home/lizhi/sm_dataset/query/ours_format/6nodes/7.g,gowalla.g,2168054912,1.2539e+06
+0 0
+81143
